@@ -33,8 +33,10 @@ export const ProductImage = styled.Image`
 `;
 
 export const ProductTitleContainer = styled.View`
+  flex: 1;
   font-size: 16px;
   margin-left: 5px;
+  padding: 0 5px;
 `;
 
 export const ProductTitle = styled.Text`
@@ -77,8 +79,6 @@ export const ActionContainer = styled.View`
   align-self: flex-end;
   align-items: center;
   justify-content: space-between;
-
-  margin-left: auto;
 `;
 
 export const ActionButton = styled.TouchableOpacity`
