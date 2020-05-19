@@ -2,9 +2,7 @@
 [linkedin-url]: https://www.linkedin.com/in/guerrero-roberto/
 [![LinkedIn][linkedin-shield]][linkedin-url]
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
     <img alt="GoStack" title="#GoStack" src="./github/GoStack.svg" width="200px" />
-  </a>
 
   <h3 align="center">Project developed during 🚀<b>GoStack Bootcamp</b></h3>
 </p>
