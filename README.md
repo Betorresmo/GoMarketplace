@@ -29,7 +29,7 @@ You need an Android or IOS emulator configured to run the application. In the ex
 ### Using a fake API
 
 In ``package.json`` there's the dependency ``json-server`` and a ``server.json`` file which has the products' data to the route ``/products``. To execute the server the following command is required:
-```sh
+```js
 yarn json-server server.json -p 3333
 ```
 
