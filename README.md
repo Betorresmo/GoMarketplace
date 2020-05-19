@@ -2,7 +2,7 @@
 [linkedin-url]: https://www.linkedin.com/in/guerrero-roberto/
 [![LinkedIn][linkedin-shield]][linkedin-url]
 <p align="center">
-    <img alt="GoStack" title="#GoStack" src="./github/GoStack.svg" width="200px" />
+    <img alt="GoStack" title="#GoStack" src="./github/GoStack.svg" width="250px" />
 
   <h3 align="center">Project developed during 🚀<b>GoStack Bootcamp</b></h3>
 </p>
