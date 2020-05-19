@@ -57,7 +57,7 @@ or
 yarn ios
 ```
 
-## 💻 Technologies:
+## 💻 Technologies
 
 - [React Native](https://reactnative.dev/) 
 - [TypeScript](https://github.com/microsoft/TypeScript)
